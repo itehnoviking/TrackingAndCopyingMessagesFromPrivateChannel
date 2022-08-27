@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CopyMessageFullPrivateChat": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "phone_number": "+79869908274",
+        "api_hash": "9f213f62b439f3432d39472178af2940",
+        "api_id": "15594866"
+      }
+    }
+  }
+}
